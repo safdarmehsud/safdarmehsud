@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @safdarmehsud
+- 👋 Hi, I’m @Safdar Rehman
 - 👀 I’m interested in web development, particularly front-end and full-stack development.
 - 🌱 I’m currently learning back-end technologies and database management to enhance my full-stack development skills.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
